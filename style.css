@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital@0;1&display=swap');
+@media only screen and (max-width: 445px){
+.songitem {
+    font-size: 0.7rem;
+    font-weight: 900;
+    }
+.container{
+    width:90%;
+    align-items: center;
+    justify-content: center;
+}
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: url('https://www-growth.scdn.co/static/home/bursts.svg')no-repeat center center/cover;
+    background-color: rgb(41, 65, 171);;
+}
+
+nav {
+    font-family: 'Gentium Plus', serif;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 50px;
+    background-color: black;
+}
+
+nav ul li {
+    padding: 0px 12px;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.brand img {
+    width: 44px;
+    padding: 0px, 8px;
+    margin: 10px;
+}
+
+.container {
+    min-height: 72vh;
+    /* background-color: black; */
+    color: white;
+    font-family: 'Gentium Plus', serif;
+    display: flex;
+    width: 70%;
+    border-radius: 13px;
+    padding: 35px;
+    margin: 23px auto;
+    background: url(bg2.jpg) no-repeat center center/cover;
+}
+.bottom {
+    position: sticky;
+    height: 120px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+}
+
+.icons {
+    margin-top: 14px;
+}
+
+.icons i {
+    cursor: pointer;
+}
+
+#progress {
+    width: 80vw;
+    text-align: center;
+    cursor:pointer;
+}
+.songitem{
+    height:50px;
+    display: flex;
+    background-color:white;
+    color:black;
+    margin: 12px 0px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius:34px;
+}
+.songitem img{
+width:43px;
+margin:0 23px;
+border-radius:  10px;
+}
+.time{
+    margin: 0px 23px ;
+    display: flex;
+}
+.fa-circle-play{
+    padding: 4px;
+    margin-left: 2px;
+}
+.time i{
+    cursor: pointer;
+}
+.songcontainer{
+    margin-top: 74px;
+}
+#gif{
+    height: 50px;
+    width:50px;
+    opacity: 0;
+    transition: opacity 0.4s ease-in;
+    border-radius: 5px;
+}
+.info{
+    position:absolute;
+    top:8vh;
+    left: 10vw;
+    font-family:  'Gentium Plus', serif;
+}
