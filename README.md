@@ -192,28 +192,22 @@ Soon I'll be merging all your changes into the main branch of this project. You 
     
      
 
-## Important guidelines
+## <strong> Rules </strong>
 
 <p id= "guide">
-1. Without any assigned issue, don’t send a PR, and if you don’t find issues at a particular time, then visit the repo after 2-3 days.
-2. If you send a PR without being assigned an issue, your PR will be marked “spam” or “invalid”.
-3. After getting assigned an issue, you must send a PR within 2-3 days otherwise we will re-assigning that issue to someone else.
+1. For PRs to be counted into your participation in Hacktoberfest, they must be merged between October 1st and October 31st.<br>
+2. Contributions must be made to public repositories.<br>
+3. If a PR has a label that contains the word spam in it, the PR will not be counted. Also, if a participant has 2 or more spam PRs, they'll be disqualified from Hacktoberfest.<br>
+4. If a PR has a label that contains the word invalid, it will not be counted. The exception for this is if the PR also has the label hacktoberfest-accepted.<br>
+
+
 
 #### **Read the official hacktoberfest guidelines:**👇🏻👇🏻👇🏻
 
 [https://hacktoberfest.com/participation/#pr-mr-details](https://hacktoberfest.com/participation/#pr-mr-details)
 [https://hacktoberfest.com/participation/#spam](https://hacktoberfest.com/participation/#spam)
 
-### More Resources 📚
 
-1. [What is Hacktoberfest](https://choudhary-vaibhav.medium.com/what-is-hacktoberfest-and-why-should-you-take-part-in-it-e02b01155869)
-2. [How to Use git](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
-3. [how-to-contribute](https://opensource.guide/how-to-contribute/)
-4. [first-contributions](https://github.com/firstcontributions/first-contributions)
-5. [awesome-for-beginners](https://github.com/mungell/awesome-for-beginners)
-6. [github-git-cheat-sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
-7. [How to Write Good Commit Messages](https://dev.to/chrissiemhrk/git-commit-message-5e21)
-8. [How to Do Your First Pull Request? (video)](https://youtu.be/nkuYH40cjo4)
 
 
 
