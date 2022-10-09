@@ -184,7 +184,7 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+## Step 7:- Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
@@ -199,10 +199,10 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 2. Contributions must be made to public repositories.<br>
 3. If a PR has a label that contains the word spam in it, the PR will not be counted. Also, if a participant has 2 or more spam PRs, they'll be disqualified from Hacktoberfest.<br>
 4. If a PR has a label that contains the word invalid, it will not be counted. The exception for this is if the PR also has the label hacktoberfest-accepted.<br>
-
+<br><br><br>
 
 
 #### **Read the official hacktoberfest guidelines:**👇🏻👇🏻👇🏻
 
-[https://hacktoberfest.com/participation/#pr-mr-details](https://hacktoberfest.com/participation/#pr-mr-details)
+[https://hacktoberfest.com/participation/#pr-mr-details](https://hacktoberfest.com/participation/#pr-mr-details)<br>
 [https://hacktoberfest.com/participation/#spam](https://hacktoberfest.com/participation/#spam)
