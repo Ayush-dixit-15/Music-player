@@ -189,7 +189,7 @@ Now submit the pull request.
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
-    
+<br><br><br>
      
 
 ## <strong> Rules </strong>
@@ -206,12 +206,3 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 [https://hacktoberfest.com/participation/#pr-mr-details](https://hacktoberfest.com/participation/#pr-mr-details)
 [https://hacktoberfest.com/participation/#spam](https://hacktoberfest.com/participation/#spam)
-
-
-
-
-
-                                                                                                                                                         |
-
-
- 
