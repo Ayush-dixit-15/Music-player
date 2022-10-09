@@ -189,6 +189,32 @@ Now submit the pull request.
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+    
+     
+
+## Important guidelines
+
+<p id= "guide">
+1. Without any assigned issue, don’t send a PR, and if you don’t find issues at a particular time, then visit the repo after 2-3 days.
+2. If you send a PR without being assigned an issue, your PR will be marked “spam” or “invalid”.
+3. After getting assigned an issue, you must send a PR within 2-3 days otherwise we will re-assigning that issue to someone else.
+
+#### **Read the official hacktoberfest guidelines:**👇🏻👇🏻👇🏻
+
+[https://hacktoberfest.com/participation/#pr-mr-details](https://hacktoberfest.com/participation/#pr-mr-details)
+[https://hacktoberfest.com/participation/#spam](https://hacktoberfest.com/participation/#spam)
+
+### More Resources 📚
+
+1. [What is Hacktoberfest](https://choudhary-vaibhav.medium.com/what-is-hacktoberfest-and-why-should-you-take-part-in-it-e02b01155869)
+2. [How to Use git](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+3. [how-to-contribute](https://opensource.guide/how-to-contribute/)
+4. [first-contributions](https://github.com/firstcontributions/first-contributions)
+5. [awesome-for-beginners](https://github.com/mungell/awesome-for-beginners)
+6. [github-git-cheat-sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+7. [How to Write Good Commit Messages](https://dev.to/chrissiemhrk/git-commit-message-5e21)
+8. [How to Do Your First Pull Request? (video)](https://youtu.be/nkuYH40cjo4)
+
 
 
                                                                                                                                                          |
