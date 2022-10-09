@@ -1,3 +1,11 @@
+
+<p align="center" width="100%">
+<img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" width="300">
+
+# <p align="center">[Contribute To This Project](https://ayush-dixit-15.github.io/Music-player/)</p>
+
+
+
 #### _Read this in [other languages](translations/Translations.md)._
 
 <kbd>[<img title="Shqip" alt="Shqip" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/al.svg" width="22">](translations/README.al.md)</kbd>
@@ -64,11 +72,6 @@
 <kbd>[<img title="Қазақша" alt="Қазақша" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/kz.svg" width="22">](translations/README.kz.md)</kbd>
 <kbd>[<img title="Bosanski" alt="Bosanski" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ba.svg" width="22">](translations/README.bih.md)</kbd>
 
-
-<p align="center" width="100%">
-<img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg" width="300">
-
-# <p align="center">[Contribute To This Project](https://ayush-dixit-15.github.io/Music-player/)</p>
 
 
 </p>
