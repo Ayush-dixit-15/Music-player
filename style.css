@@ -11,6 +11,32 @@
 }
 }
 
+a{
+    text-decoration: none;
+    color: white;
+    width: inherit;
+    height: inherit;
+    padding: 10px;
+}
+.about{
+    box-sizing: border-box;
+    font-size: 30px;
+    font-family: 'Gentium Plus', serif;
+    background-color: black;
+    color: green;
+    height: auto;
+    width: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-45%);
+    border-radius: 13px;
+    padding: 100px;
+}
+a:hover{
+    background-color: green;
+}
+
 * {
     margin: 0px;
     padding: 0px;
@@ -53,7 +79,6 @@ nav ul li {
 
 .container {
     min-height: 72vh;
-    /* background-color: black; */
     color: white;
     font-family: 'Gentium Plus', serif;
     display: flex;
